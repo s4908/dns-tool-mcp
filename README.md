@@ -11,3 +11,6 @@
    npm start
    ```
 
+The `dnsLookup` tool accepts a domain, optional DNS server, and an optional
+`type` parameter specifying the record type (A, AAAA, MX, CNAME, TXT, or NS).
+
